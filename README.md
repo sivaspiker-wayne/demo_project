@@ -24,3 +24,7 @@ bruce wayne
 git add
 
 new line in local
+
+cls
+
+spidermanin local
