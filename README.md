@@ -14,6 +14,7 @@ git commit
 git push"""
 
 """I AM  THE POWER"""
-s
-git 
+
 """its not who iam underneath but what i do that defines me"""
+"why do we fall bcoz we could rise again"
+"i am the batman"
