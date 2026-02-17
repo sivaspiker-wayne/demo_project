@@ -21,3 +21,4 @@ git push"""
 marvel cinemTC NUNIVERSE
 spiderman
 bruce wayne
+git add
